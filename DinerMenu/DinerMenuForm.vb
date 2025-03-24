@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'DinerMenu
-'https://github.com/MalachiMarlow/Address-Label-Program.git
+'https://github.com/MalachiMarlow/DinerMenu.git
 
 
 Option Strict On
